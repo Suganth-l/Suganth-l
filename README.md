@@ -2,17 +2,30 @@
 
 # Hi 👋, I'm Suganth
 
-### Java Full Stack Developer | Backend & Web Development Enthusiast
+### Java Full Stack Developer | Building Scalable Web Applications 🚀
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+React;Building+Projects+and+Solving+Problems;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
+</p>
 
 <p>
   <a href="https://github.com/Suganth-l">
-    <img src="https://komarev.com/ghpvc/?username=Suganth-l&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/GitHub-Suganth--l-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <i>Focused on building reliable backend systems, modern web applications, and continuously improving through real-world projects.</i>
 </p>
 
 </div>
 
 ---
+
 
 ## 👨‍💻 About Me
 
